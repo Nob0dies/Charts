@@ -1,0 +1,8 @@
+{
+  "name": "test-task",
+  "dependencies": {
+    "jquery": "2.2.3",
+    "normalize-css": "normalize.css#~3.0.3",
+    "bootstrap":"3.3.6"
+  }
+}
